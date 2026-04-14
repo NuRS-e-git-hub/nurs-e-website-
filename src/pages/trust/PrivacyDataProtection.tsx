@@ -6,13 +6,10 @@ const PrivacyDataProtection = () => (
     breadcrumbs={[{ label: "Trust & Compliance", href: "/trust/security" }, { label: "Privacy & Data Protection" }]}
   >
     <section>
-      <p className="text-muted-foreground leading-relaxed mb-4">
-        NuRS-e ensures:
-      </p>
       <ul className="list-disc list-inside text-muted-foreground space-y-1">
-        <li>Lawful processing of personal data</li>
-        <li>Protection of user rights</li>
-        <li>Implementation of appropriate safeguards</li>
+        <li>Data lifecycle management</li>
+        <li>User rights protection</li>
+        <li>Strong safeguards</li>
       </ul>
     </section>
   </ContentPageLayout>

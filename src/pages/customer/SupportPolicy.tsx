@@ -7,24 +7,22 @@ const SupportPolicy = () => (
   >
     <section>
       <h2 className="text-xl font-semibold mb-3 text-foreground">Support Channels</h2>
-      <p className="text-muted-foreground leading-relaxed mb-2">Support is available via:</p>
-      <ul className="list-disc list-inside text-muted-foreground space-y-1">
-        <li>Email</li>
-        <li>Customer portal</li>
-      </ul>
+      <p className="text-muted-foreground leading-relaxed">
+        Email and portal support.
+      </p>
     </section>
 
     <section>
       <h2 className="text-xl font-semibold mb-3 text-foreground">Response Times</h2>
       <p className="text-muted-foreground leading-relaxed">
-        Response times depend on issue severity.
+        Priority-based response times.
       </p>
     </section>
 
     <section>
       <h2 className="text-xl font-semibold mb-3 text-foreground">Escalation</h2>
       <p className="text-muted-foreground leading-relaxed">
-        Critical issues may be escalated internally to ensure timely resolution.
+        Escalation for critical issues.
       </p>
     </section>
   </ContentPageLayout>
