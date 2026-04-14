@@ -6,13 +6,11 @@ const Security = () => (
     breadcrumbs={[{ label: "Trust & Compliance", href: "/trust/security" }, { label: "Security Overview" }]}
   >
     <section>
-      <p className="text-muted-foreground leading-relaxed mb-4">
-        NuRS-e applies security best practices to protect its platform, including:
-      </p>
+      <p className="text-muted-foreground leading-relaxed mb-2">NuRS-e implements:</p>
       <ul className="list-disc list-inside text-muted-foreground space-y-1">
-        <li>Access controls</li>
-        <li>Monitoring systems</li>
-        <li>Data protection measures</li>
+        <li>Access control</li>
+        <li>Monitoring</li>
+        <li>Incident response</li>
       </ul>
     </section>
   </ContentPageLayout>

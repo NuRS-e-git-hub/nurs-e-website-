@@ -6,12 +6,10 @@ const ComplianceFramework = () => (
     breadcrumbs={[{ label: "Trust & Compliance", href: "/trust/security" }, { label: "Compliance Framework" }]}
   >
     <section>
-      <p className="text-muted-foreground leading-relaxed mb-4">
-        NuRS-e operates in alignment with applicable regulations, including:
-      </p>
+      <p className="text-muted-foreground leading-relaxed mb-2">Aligned with:</p>
       <ul className="list-disc list-inside text-muted-foreground space-y-1">
-        <li>Data protection laws (e.g. GDPR)</li>
-        <li>Contractual data processing obligations</li>
+        <li>GDPR</li>
+        <li>Contractual obligations</li>
       </ul>
     </section>
   </ContentPageLayout>
