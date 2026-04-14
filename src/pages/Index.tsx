@@ -19,6 +19,7 @@ const Index = () => {
       <CarePaths />
       <Benefits />
       <Technology />
+      <Team />
       <CTA />
       <Footer />
     </div>
