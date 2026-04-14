@@ -5,6 +5,7 @@ import { HowItWorks } from "@/components/HowItWorks";
 import { CarePaths } from "@/components/CarePaths";
 import { Benefits } from "@/components/Benefits";
 import { Technology } from "@/components/Technology";
+import { Team } from "@/components/Team";
 import { CTA } from "@/components/CTA";
 import { Footer } from "@/components/Footer";
 
