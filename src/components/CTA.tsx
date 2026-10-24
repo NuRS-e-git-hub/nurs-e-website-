@@ -17,7 +17,7 @@ export const CTA = () => {
                 Klaar om NuRS-e in Uw Praktijk te Implementeren?
               </h2>
               <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-                Ontdek hoe NuRS-e uw praktijk kan helpen met geautomatiseerde patiëntvolging
+                Ontdek hoe NuRS-e uw praktijk kan helpen met geautomatiseerde telefonische nazorg
               </p>
             </div>
 
