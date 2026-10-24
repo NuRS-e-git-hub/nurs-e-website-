@@ -51,10 +51,10 @@ export const Solution = () => {
             <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
               NuRS-e
             </span>
-            {" "}Automatiseert Patiëntvolging
+            {" "}Automatiseert Telefonische Nazorg
           </h2>
           <p className="text-xl text-muted-foreground">
-            Slimme LLM-technologie die telefonische patiëntvolging overneemt met behoud van empathie en veiligheid
+            Slimme LLM-technologie die telefonische nazorggesprekken overneemt met behoud van empathie en veiligheid
           </p>
         </div>
 

@@ -20,7 +20,7 @@ const challenges = [
   {
     icon: AlertCircle,
     title: "Kwaliteitsvariatie",
-    description: "Kwaliteit van patiëntvolging fluctueert door tijdsdruk"
+    description: "Kwaliteit van nazorg fluctueert door tijdsdruk"
   }
 ];
 
